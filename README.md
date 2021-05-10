@@ -3,14 +3,14 @@ OpenWrt which is generally installed on a wifi router device.
 on this project I tried to design openwrt specifically to work on rooted android devices.
 like Samsung, Sony, LG, Xiomi, Oppo, Vivo, Lenovo and others.
 
-tested device:
-.Samsung Tab 3V
-.Nexus 5/6
-.LG G4
-.LG G2 (D802) or (F320) series
-.Sony Xperia z1
-.LG V20
-.Xiomi mi4
+# tested device:
+1.Samsung Tab 3V
+2.Nexus 5/6
+3.LG G4
+4.LG G2 (D802) or (F320) series
+5.Sony Xperia z1
+6.LG V20
+7.Xiomi mi4
 
 # INSTALLATION GUIDE
 1. Download JandaWrt.zip file, extract to your sdcard
