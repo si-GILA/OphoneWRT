@@ -22,6 +22,8 @@ like Samsung, Sony, LG, Xiomi, Oppo, Vivo, Lenovo and others.
 
 ![screenshot](pict/luciinterface.png)
 
+![screenshot](pict/software.png)
+
 # INSTALLATION GUIDE
 1. Download JandaWrt.zip file, extract to your sdcard
 
