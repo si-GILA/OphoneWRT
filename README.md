@@ -1,4 +1,5 @@
 # OphoneWRT
+![screenshot](https://github.com/si-GILA/OphoneWRT/blob/750e8e535ac2bf462742bd78ee9a077525931e1b/pict/banner.jpg)
 OpenWrt which is generally installed on a wifi router device.
 on this project I tried to design openwrt specifically to work on rooted android devices.
 like Samsung, Sony, LG, Xiomi, Oppo, Vivo, Lenovo and others.
@@ -23,7 +24,7 @@ like Samsung, Sony, LG, Xiomi, Oppo, Vivo, Lenovo and others.
 # BOOT COMMAND
 . Open Nh-Term app select AndroidSu tab
 . type : "boot-wrt" to boot or start ophonewrt
-
+![screenshot](https://github.com/si-GILA/OphoneWRT/blob/750e8e535ac2bf462742bd78ee9a077525931e1b/pict/bootcmd.jpg)
 # STOP COMMAND
 . type : "kill-wrt" to stop or kill all running pids by openwrt
-![screenshot](https://github.com/si-GILA/OphoneWRT/blob/24e0ee24d4d87f914239c8ecea0d8663dbed09af/Screensh.png)
+![sreenshot](https://github.com/si-GILA/OphoneWRT/blob/750e8e535ac2bf462742bd78ee9a077525931e1b/pict/killcmd.jpg)
