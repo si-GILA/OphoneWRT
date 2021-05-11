@@ -26,4 +26,4 @@ like Samsung, Sony, LG, Xiomi, Oppo, Vivo, Lenovo and others.
 
 # STOP COMMAND
 . type : "kill-wrt" to stop or kill all running pids by openwrt
-![screenshot](https://github.com/si-GILA/OphoneWRT/blob/4419eda940232c180863d2b9d867873a942899ca/Screenshot_20210508-234925_Trebuchet.png)
+![screenshot](https://github.com/si-GILA/OphoneWRT/blob/24e0ee24d4d87f914239c8ecea0d8663dbed09af/Screensh.png)
