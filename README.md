@@ -15,11 +15,12 @@ like Samsung, Sony, LG, Xiomi, Oppo, Vivo, Lenovo and others.
 
 # INSTALLATION GUIDE
 1. Download JandaWrt.zip file, extract to your sdcard
-2. Download and install nh-term,nethunter app from http://store.nethunter.com
-3. open nethunter app and allow all permission
-4. copy "scripts" folder from extracted JandaWrt.zip
-5. go to /data/data/com.offsec.nethunter/files delete existing "sripts" folder and paste from copyed
-6. back to nethunter app, go to -> ChrootManager -> Install chroot -> Install From Sdcard, point to downloaded rootfs tarbal file
+2. [Releases](https://github.com/si-GILA/OphoneWRT/releases)
+3. Download and install nh-term,nethunter app from http://store.nethunter.com
+4. open nethunter app and allow all permission
+5. copy "scripts" folder from extracted JandaWrt.zip
+6. go to /data/data/com.offsec.nethunter/files delete existing "sripts" folder and paste from copyed
+7. back to nethunter app, go to -> ChrootManager -> Install chroot -> Install From Sdcard, point to downloaded rootfs tarbal file
 
 # BOOT COMMAND
 . Open Nh-Term app select AndroidSu tab
