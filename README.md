@@ -13,6 +13,15 @@ like Samsung, Sony, LG, Xiomi, Oppo, Vivo, Lenovo and others.
 # .LG V20
 # .Xiomi mi4
 
+# Screenshot
+![screenshot](pict/lucilogin.png)
+
+![screenshot](pict/lucisysinfo.png)
+
+![screenshot](pict/luciwireless.png)
+
+![screenshot](pict/luciinterface.png)
+
 # INSTALLATION GUIDE
 1. Download JandaWrt.zip file, extract to your sdcard
 
