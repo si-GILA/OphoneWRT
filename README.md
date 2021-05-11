@@ -4,14 +4,24 @@ OpenWrt which is generally installed on a wifi router device.
 on this project I tried to design openwrt specifically to work on rooted android devices.
 like Samsung, Sony, LG, Xiomi, Oppo, Vivo, Lenovo and others.
 
-# tested device:
-# .Samsung Tab 3V
-# .Nexus 5/6
-# .LG G4
-# .LG G2 (D802) or (F320) series
-# .Sony Xperia z1
-# .LG V20
-# .Xiomi mi4
+# Tested device:
+
+Samsung Tab 3V
+
+Nexus 5/6
+
+LG G4
+
+LG G2 (D802) or (F320) series
+
+Sony Xperia z1/z2
+
+LG V20
+
+Xiomi mi4
+
+Asus Zenfone 5
+
 
 # Screenshot
 ![screenshot](pict/lucilogin.png)
