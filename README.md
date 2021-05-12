@@ -50,6 +50,7 @@ Asus Zenfone 5
 
 # BOOT COMMAND
 . Open Nh-Term app select AndroidSu tab
+
 . type : "boot-wrt" to boot or start ophonewrt
 ![screenshot](https://github.com/si-GILA/OphoneWRT/blob/750e8e535ac2bf462742bd78ee9a077525931e1b/pict/bootcmd.jpg)
 # STOP COMMAND
